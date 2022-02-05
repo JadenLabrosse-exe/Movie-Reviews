@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(230, 230, 82);
+    border-style: dotted;
+    text-shadow: gray 1px 1px;
+}
+
+body {
+    background-color: thistle;
+}
+
+div {
+    color: rgb(0, 0, 0);
+    text-shadow: gray 1px 1px;
+}
+
+img {
+    border-style: dashed;
+    border-radius: 5px;
+}
+
+p {
+    background-color: rgb(199, 175, 199);
+}
